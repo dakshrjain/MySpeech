@@ -1,6 +1,8 @@
 # MySpeech
 A Web Conferencing System for Speech and hearing impaired Using ML
 
+**Project Linl** : https://drive.google.com/file/d/1nawDdFc1Sg3uT7bRMcqJQ2aeeh4-R4Pv/view?usp=sharing
+
 Abstract
 
 We depend on verbal communication and body language for our daily life communication. The speech and hearing-impaired people can only on gestures to communicate. Gestures are defined as the motion of the body that is intended to communicate with other agents. For a successful communication sender and the receiver must have the same set of information for a particular gesture. As per the context of this project, gesture is defined as an expressive movement of hands which has a particular message, to be communicated precisely between a sender and a receiver. Hand gestures can be classified in two categories: static and dynamic. A static hand gesture is a particular hand configuration and pose, represented by a single image. A dynamic hand gesture is a moving gesture, which is represented by a sequence of images This project focuses on the recognition of static images. American Sign Language (ASL) is a natural language which is a predominant sign language of speech and hearing impaired people in the United States and most of Canada. Besides America, dialects of ASL are used in many countries around the world, including much of West Africa and parts of Southeast Asia. That is why, a fast and accurate system is required to make this human computer interaction (HCI) more convenient to the deaf and dumb people.
