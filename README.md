@@ -1,7 +1,9 @@
 # MySpeech
 A Web Conferencing System for Speech and hearing impaired Using ML
 
-**Project Linl** : https://drive.google.com/file/d/1nawDdFc1Sg3uT7bRMcqJQ2aeeh4-R4Pv/view?usp=sharing
+**Project Link** : https://drive.google.com/file/d/1nawDdFc1Sg3uT7bRMcqJQ2aeeh4-R4Pv/view?usp=sharing
+
+**Project Demo Video** : https://drive.google.com/file/d/13-GgYfNk1Y0apBHmvNENaos5z3qPJY8e/view?usp=sharing
 
 Abstract
 
